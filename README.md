@@ -2,6 +2,8 @@
 
 重读 CNN 网络的经典论文，并用 tensorflow 2.0 手撸一遍经典模型，感受一下实测数据
 
+硬件环境: GTX 1080(GPU) + i7 7700k(CPU) + 16G Memory
+
 
 ## 1. 从 AlexNet 到 ResNet -- 越来越深的 CNN 模型
 
