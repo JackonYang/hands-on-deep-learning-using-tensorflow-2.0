@@ -20,6 +20,16 @@ code and result: [AlexNet on MNIST and Cifar10 Datasets](code/01-AlexNet-on-MNIS
 
 #### 1.2 Vgg -- 暴力加深的收官之作
 
+code and result: [VggNet on Cifar10 Datasets](code/02-VggNet.ipynb)
+
+观点：
+
+1. VggNet 成功的把网络做的更深了，模型的算法性能也有了不错的提升(70% - 78%)
+2. 运行时间增加 10 倍，也很明显。计算的能效比已经不那么高了。
+
+
+#### 1.3 ResNet -- 弹性加深
+
 TODO
 
 
