@@ -30,7 +30,12 @@ code and result: [VggNet on Cifar10 Datasets](code/02-VggNet.ipynb)
 
 #### 1.3 ResNet -- 弹性加深
 
-TODO
+code and result: [ResNet on Cifar10 Datasets](code/03-ResNet.ipynb)
+
+观点：
+
+1. ResNet 的性能和能效比，都好于 VggNet。碾压式的进步。
+2. 当前实现版本，过拟合很严重，是改进的重点。
 
 
 ## 环境搭建
