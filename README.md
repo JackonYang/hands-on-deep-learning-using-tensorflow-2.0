@@ -35,8 +35,15 @@ TODO
 
 ## 环境搭建
 
-见 [Ubuntu 18.04 的 Tensorflow 炼丹炉](https://zhuanlan.zhihu.com/p/45041445)
+见 [Ubuntu 18.04 搭建 cuda10.1+tensorflow2.1+python3.7](https://zhuanlan.zhihu.com/p/45041445)
 
 ```bash
 $ pip install -r requirements.txt
 ```
+
+## 背景知识学习路径
+
+1. Tensorflow 2.0 Tutorials: [https://www.tensorflow.org/tutorials](https://www.tensorflow.org/tutorials)
+2. Keras Introduction: [https://keras.io/](https://keras.io/)
+3. Getting started with the Keras Sequential model: [https://keras.io/getting-started/sequential-model-guide/](https://keras.io/getting-started/sequential-model-guide/)
+4. Getting started with the Keras functional API: [https://keras.io/getting-started/functional-api-guide/](https://keras.io/getting-started/functional-api-guide/)
